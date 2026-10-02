@@ -1,0 +1,25 @@
+# PitchEye
+
+> PitchEye is a drone photogrammetry and AI analytics company based in Meridian, Idaho. It turns drone imagery (photogrammetry, LiDAR, multispectral/NDVI and thermal) into survey-grade maps, 3D models and AI-driven insights for agriculture and golf courses, telecom, utilities and commercial real estate.
+
+Key facts:
+- Location: Meridian, Idaho (Boise metro). Serves Idaho and the Pacific Northwest.
+- Missions are planned in-house, use RTK GPS for sub-centimeter accuracy, and are flown by FAA-certified drone pilots.
+- Results are typically delivered within 24 hours of data collection through a secure cloud platform.
+- Contact: info@pitcheye.ai · Request a demo: https://pitcheye.ai/contact.html
+
+## Industries
+- [Agriculture](https://pitcheye.ai/industries/agriculture.html): Drone photogrammetry, NDVI and multispectral crop health mapping for golf courses, farms and orchards in Idaho. Find irrigation issues before they cost you.
+- [Telecom](https://pitcheye.ai/industries/telecom.html): Drone cell tower inspections, 3D models and GPS-tagged equipment inventory. Reduce inspection time by 80% and keep crews off the climb.
+- [Utilities](https://pitcheye.ai/industries/utilities.html): AI-powered drone inspections for power lines, substations and pipeline rights-of-way. Detect corrosion, damage and vegetation encroachment before outages.
+- [Commercial Real Estate](https://pitcheye.ai/industries/commercial-real-estate.html): Drone roof inspections, site surveys and due diligence for commercial real estate. Understand property condition across your portfolio before you buy or sell.
+
+## Solutions (project lifecycle)
+- [Pre-Construction](https://pitcheye.ai/solutions/pre-construction.html): Drone orthomosaics, LiDAR topography, site characterization and drainage analysis for pre-construction planning. Know your site before you break ground.
+- [Construction](https://pitcheye.ai/solutions/construction.html): Drone construction progress monitoring, milestone inspections, stockpile and staging-yard inventory, and final inspection documentation for hand-off.
+- [Operation & Maintenance](https://pitcheye.ai/solutions/operation-maintenance.html): AI-powered drone inspections for operation and maintenance: asset health analysis, digital inventory, predictive maintenance and environmental monitoring.
+- [Buy & Sell](https://pitcheye.ai/solutions/buy-sell.html): Drone due diligence surveys for buying and selling property and infrastructure: pre-acquisition inspections, portfolio evaluations and sales documentation.
+
+## Company
+- [About PitchEye](https://pitcheye.ai/about.html)
+- [Request a demo](https://pitcheye.ai/contact.html)
